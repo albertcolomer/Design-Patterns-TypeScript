@@ -7,24 +7,21 @@ Lo que buscamos a través de estos videos es ir más allá de que tecnología us
 Compartimos los enlaces a las lecciones del curso.
 
 ### Introducción
-En este primer video haremos una introducción a los patrones de diseño.
-https://www.youtube.com/watch?v=Yk5TXytE-gs
+
 
 ### Creation
-* Singleton - https://www.youtube.com/watch?v=Qckwuge7dpQ
-* Factory - https://www.youtube.com/watch?v=QP33nP-KNko
-* Abstract Factory - https://www.youtube.com/watch?v=JgejyeRyztI
+* Singleton - 
+* Factory - 
+* Abstract Factory - 
 
 ### Structural
-* Adapter - https://www.youtube.com/watch?v=P5Ig9vtRy-w
-* Decorator - https://www.youtube.com/watch?v=WNlqIsUPp1g
-* Proxy - https://www.youtube.com/watch?v=K3EzQjJNJTo
+* Adapter - 
+* Decorator - 
+* Proxy -
 
 ### Behavior
-* Command - https://www.youtube.com/watch?v=OHm23zee9tU
-* Observer - https://www.youtube.com/watch?v=WUsOLZpBsjU
-* Strategy - https://www.youtube.com/watch?v=BfaWQ5IiJCc
+* Command - 
+* Observer - 
+* Strategy - 
 
-## Suscríbete
-A nuestro canal para seguir subiendo más material y esten atentos a nuestros próximos videos de contenido gratuito.
-https://www.youtube.com/channel/UCjay76-vPuSqSEmDM6PD74Q?sub_confirmation=1
+
